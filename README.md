@@ -1,4 +1,8 @@
 # click_game
+
+# Link to app hosted on Heroku
+- [Link to click-game app on heroku](https://afternoon-gorge-13980.herokuapp.com)
+
 ### Summary
 This is a memory game with React
 - This will require breaking the application's UI into components, manage component state, and respond to user events
@@ -11,3 +15,16 @@ This is a memory game with React
   - The user's score will be reset to 0 if they click the same image more than once
 - Each time an image is clicked, the images rendered to the page should shuffle themselves in a random order
 - Once the user's score is reset after an imcorrect guess, the game will restart
+
+### Technologies Used
+- React
+- HTML 
+- CSS
+- Bootstrap
+- Javascript
+- JQuery
+- JSON
+- Deployed on Heroku
+
+### Check out the Game!
+- ![Gif of Game](https://gfycat.com/nearpessimisticatlanticridleyturtle)
