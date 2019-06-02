@@ -1,4 +1,6 @@
 # click_game
+### Check out the Game!
+![Gif of Game](https://media.giphy.com/media/2ysoov1oiepCiq9rz0/giphy.gif)
 
 # Link to app hosted on Heroku
 - [Link to click-game app on heroku](https://afternoon-gorge-13980.herokuapp.com)
@@ -25,6 +27,3 @@ This is a memory game with React
 - JQuery
 - JSON
 - Deployed on Heroku
-
-### Check out the Game!
-![Gif of Game](https://media.giphy.com/media/2ysoov1oiepCiq9rz0/giphy.gif)
