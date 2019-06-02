@@ -27,4 +27,4 @@ This is a memory game with React
 - Deployed on Heroku
 
 ### Check out the Game!
-- ![Gif of Game](https://giant.gfycat.com/NearPessimisticAtlanticridleyturtle.webm)
+- ![Gif of Game](https://giphy.com/gifs/2ysoov1oiepCiq9rz0/html5)
